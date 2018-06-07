@@ -59,10 +59,10 @@ This software uses code from several open source packages.
 
 ## Docker
 
-- [Docker Container](https://hub.docker.com/r/tukerty/hb-devtools-ep/)
+- [Docker Container](https://hub.docker.com/r/tukerty/hb-devtools-tr/)
 
 ```bash
-docker pull tukerty/hb-devtools-ep
+docker pull tukerty/hb-devtools-tr
 ```
 
 ## License
