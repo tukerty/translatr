@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-  <img src="https://tukerty.tmweb.ru/images/EPD.png" width="600">
+  <img src="https://tukerty.tmweb.ru/images/TRTR.png" width="600">
 </h1>
 
-<h4 align="center">Express Panel for microservice architecture</h4>
+<h4 align="center">Local service for managing translations</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/NodeJS%20-8-green.svg" alt="php">
@@ -26,24 +26,7 @@
 
 ## Key Features
 
-<h4 align="center">Draggable Grid</h4>
 
-<p align="center">
-    <img src="https://tukerty.tmweb.ru/images/DraggableGrid.gif">
-</p>
-
-<h4 align="center">Search by name</h4>
-
-<p align="center">
-    <img src="https://tukerty.tmweb.ru/images/SearchByName.gif">
-</p>
-
-
-<h4 align="center">Environments filter</h4>
-
-<p align="center">
-    <img src="https://tukerty.tmweb.ru/images/EnvironmentsFilter.gif">
-</p>
 
 ## Getting Started
 
@@ -72,7 +55,7 @@ This software uses code from several open source packages.
 
 ## Related
 
-- [Translatr](https://github.com/tukerty/translr/)
+- [Exboard](https://github.com/tukerty/exboard)
 
 ## Docker
 
